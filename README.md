@@ -5,7 +5,7 @@ MODRINTH LINK, PLEASE DOWNLOAD FROM THERE: https://modrinth.com/resourcepack/zep
 This pack was created by me, Zeppy Tube, because I wanted to change some little stuff in the game (changes shown below), because I didn't want multiple texture packs to do little stuff, so I just made my own to change it all
 I never planned on releasing this, however after getting a few request for a release, I'm finally officially releasing this along with all the versions (Because I couldn't get multi support to work lol)
 
-Changes to the game:
+# Changes to the game:
 - -Replaced "Honey comb" name with "Wax".
 - -Replaced "You died" text screen to "GAME OVER" in blue text.
 - -Replaced any "{player} fell off of a/some {climbable object}" chat death message with "{player} fell off of a/some {climbable object} (Are you dumb?)".
@@ -22,4 +22,6 @@ Changes to the game:
 - -Removed map in item frame texture from the map.
 - -Changed chainmail armor with Rina Tennoji school uniform+Rina board.
 - -Changed chainmail helment texture to Rina board.
+#
+
 For any issues, join my discord server and report it in "#minecraft-help" and I'll maybe fix it. Discord link: https://discord.com/invite/DuhzQWs26X
