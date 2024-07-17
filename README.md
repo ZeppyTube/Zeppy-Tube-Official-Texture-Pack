@@ -22,3 +22,4 @@ Changes to the game:
 - -Removed map in item frame texture from the map.
 - -Changed chainmail armor with Rina Tennoji school uniform+Rina board.
 - -Changed chainmail helment texture to Rina board.
+For any issues, join my discord server and report it in "#minecraft-help" and I'll maybe fix it. Discord link: https://discord.com/invite/DuhzQWs26X
