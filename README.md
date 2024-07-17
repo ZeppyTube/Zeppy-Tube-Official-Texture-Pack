@@ -1,5 +1,7 @@
 # Zeppy Tube's Official Texture Pack
 
+MODRINTH LINK, PLEASE DOWNLOAD FROM THERE: https://modrinth.com/resourcepack/zeppy-tubes-official-texture-pack
+
 This pack was created by me, Zeppy Tube, because I wanted to change some little stuff in the game (changes shown below), because I didn't want multiple texture packs to do little stuff, so I just made my own to change it all
 I never planned on releasing this, however after getting a few request for a release, I'm finally officially releasing this along with all the versions (Because I couldn't get multi support to work lol)
 
@@ -20,4 +22,3 @@ Changes to the game:
 - -Removed map in item frame texture from the map.
 - -Changed chainmail armor with Rina Tennoji school uniform+Rina board.
 - -Changed chainmail helment texture to Rina board.
-
