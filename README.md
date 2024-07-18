@@ -7,6 +7,7 @@ I never planned on releasing this, however after getting a few request for a rel
 
 # Changes to the game:
 - -Replaced "Honey comb" name with "Wax".
+- -Replaced "Target" name with "Target block".
 - -Replaced "You died" text screen to "GAME OVER" in blue text.
 - -Replaced any "{player} fell off of a/some {climbable object}" chat death message with "{player} fell off of a/some {climbable object} (Are you dumb?)".
 - -Replaced splash text "Made by Jeb!" with "Made by Jeb (And Hatsune Miku)!".
