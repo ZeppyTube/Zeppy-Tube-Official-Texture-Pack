@@ -25,4 +25,4 @@ I never planned on releasing this, however after getting a few request for a rel
 - -Changed chainmail helment texture to Rina board.
 #
 
-For any issues, join my discord server and report it in "#minecraft-help" and I'll maybe fix it. Discord link: https://discord.com/invite/DuhzQWs26X
+For any issues, join my discord server and report it in "#help-or-report" and I'll maybe fix it. Discord link: https://discord.com/invite/DuhzQWs26X
