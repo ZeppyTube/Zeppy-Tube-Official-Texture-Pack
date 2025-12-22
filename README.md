@@ -11,12 +11,7 @@ I never planned on releasing this, however after getting a few request for a rel
 - -Replaced "You died" text screen to "GAME OVER" in blue text.
 - -Replaced any "{player} fell off of a/some {climbable object}" chat death message with "{player} fell off of a/some {climbable object} (Are you dumb?)".
 - -Replaced splash text "Made by Jeb!" with "Made by Jeb (And Hatsune Miku)!".
-- -Added splash text "Love Live!" in pink text.
-- -Added splash text "LIQUIIIDDDDDDDD!!".
-- -Added splash text "Your next line is "Is that a JoJo reference?"".
-- -Added splash text "Sub to Zeppy Tube!".
-- -Added splash text "I can't believe you've done this!".
-- -Added splash text "Best edition!" (Idk if this was added or already here I think I added it).
+- -Added various splash texts (refer to change logs)
 - -Changed Turtle texture to Carl bot from discord (Texture may be messed up).
 - -Changed Diamond sword texture to Master sword from Legend of Zelda (Shadow is reversed).
 - -Changed Redstone dust texture to have my PFP on it (Zeppy Tube pfp character).
